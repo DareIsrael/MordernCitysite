@@ -43,16 +43,7 @@ function FeatureCard () {
         <h4>Garman House</h4>
         <p>300 Property</p>
         </div> 
-        {/* <div className="boxes">
-        <img src="photos/icon3.jpg" alt=""></img>
-        <h4>Apartment</h4>
-        <p>300 Property</p>
-        </div> 
-        <div className="boxes">
-        <img src="photos/icon3.jpg" alt=""></img>
-        <h4>Apartment</h4>
-        <p>300 Property</p>
-        </div>  */}
+        
         </div>
         
 

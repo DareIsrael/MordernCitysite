@@ -17,13 +17,16 @@ function TeamCard (props) {
             <div className='img'>
             <img  src={props.TeamImage}></img>
             <h5 className='deth5'>{props.teamName} </h5>
-            </div>
-            
             <div className='detpad'>
-            <h5>{props.teamName} <span style={{paddingLeft: "60%"}}>🖤</span></h5>
             <p>{props.contact}</p>
             <p>{props.email}</p>
             </div>
+           
+           
+            </div>
+            
+            
+           
             
             </div>
         </div>
