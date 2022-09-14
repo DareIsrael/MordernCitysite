@@ -995,6 +995,9 @@ button:hover {
            grid-template-columns: repeat(1, 1fr);
 
        }
+       .com {
+         padding-bottom: 5%;
+       }
    }
 
    @media screen and (max-width: 400px) {

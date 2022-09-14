@@ -11,7 +11,7 @@ function Bright () {
         {/* <h6><span className="navB"><img className="navImg" src="photos/icons8-home-96.png"></img>Modern</span>City</h6> */}
         <p> Copyright ©2022, Bright Projects Ltd. All Rights Reserved. Website Design by Brightweb. </p>
         <span className="navA"> ☎︎ 08034307945</span>
-        <p>Commissioner Lodge way GRA Ilorin </p>
+        <p className="com">Address-Commissioner Lodge way GRA Ilorin </p>
         <div className="conicon">
         <IoLogoWhatsapp className="con"/>
         <BsFacebook className="con"/>
