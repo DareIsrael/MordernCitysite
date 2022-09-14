@@ -12,7 +12,7 @@ import "./nav.css";
 function NavbarCom() {
   return (
 
-    <Navbar bg="warning" expand="lg" fixed="top">
+    <Navbar bg="warning" expand="lg" className="navbar navbar-custom" fixed="top">
     <Container fluid>
      <h2 className="navcity"><span className="navbrand"><img  className="navImg" src="photos/icons8-home-96.png"></img>Mordern</span>City</h2>
       <Navbar.Toggle aria-controls="navbarScroll" />

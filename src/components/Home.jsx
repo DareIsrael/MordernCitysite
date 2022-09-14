@@ -27,7 +27,7 @@ function Home () {
       <video className="vid" src="photos/video.mp4" autoPlay loop muted />
   
 
-     <HomeInput />
+     <HomeInput /> 
     
      <FeatureCard />
      

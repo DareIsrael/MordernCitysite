@@ -15,14 +15,14 @@ function Recent () {
     
     
     return ( 
-        <section data-aos="flip-right" className="grid2">
+        <section data-aos="zoom-in" className="grid2">
         <div className="grid6">
            <Heading 
             title="Recent Property List"
             subtitle="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
            />
         
-        <div className="grid3">
+        <div   className="grid3">
        
         <Card 
            
@@ -38,6 +38,7 @@ function Recent () {
          
 
             <Card 
+            data-aos="flip-left"
             img= " photos/two.jpg"
             name ="S-Detached"
             body ="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"
@@ -45,6 +46,7 @@ function Recent () {
              />
 
             <Card 
+            
             img= " photos/three.webp"
             name ="Bungalow"
             body ="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"
